@@ -1,8 +1,11 @@
-title: Self-Supervision for Reinforcement Learning
-description: An ICLR 2021 workshop on Self-supervised methods for sequential decision making tasks.
+title: AutoRL
+description: A NeurIPS 2021 Workshop Proposal.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
 include: ['_pages']
 ga_id: UA-144588579-1
+
+domain: autorl.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://autorl.github.io  # the base hostname and protocol for your site, e.g. http://example.com
