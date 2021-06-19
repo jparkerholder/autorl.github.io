@@ -1,0 +1,8 @@
+title: Self-Supervision for Reinforcement Learning
+description: An ICLR 2021 workshop on Self-supervised methods for sequential decision making tasks.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: UA-144588579-1
